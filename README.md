@@ -1,4 +1,4 @@
-# Healthcare Management System - README
+# MediCore (Healthcare Management System) - README
 
 ## 📋 **Introduction**
 The **Hospital Management System** is a computer-based application designed to streamline hospital operations by managing healthcare-related information efficiently. This system helps healthcare providers manage doctor, patient, and worker information, generate bills, update existing records, add new records, and delete records. It ensures secure access through unique usernames and passwords for both admin and user accounts.
